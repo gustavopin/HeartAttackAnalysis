@@ -1,7 +1,7 @@
 # Project
 This project will analyze health data to predict what caused the heart attack for those people.
 The data was collected at [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
-
+ - Some of the data was measure by [CDC](https://www.cdc.gov/diabetes/basics/getting-tested.html#:~:text=A%20fasting%20blood%20sugar%20level,higher%20indicates%20you%20have%20diabetes.)
  - Need to get data from WHO to have a base for "healthy"
  - Rapidly explain what the data is
  
