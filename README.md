@@ -34,7 +34,7 @@ This separation is important to better choose how to work with the variable.
 
 Below we can see how the continuous variables can have a more matematical approach:
 
-![Continuous Variables Table]('Images/continuous_table.png' Central Tendency Measures of Continuous Variables)
+![Continuous Variables Table](Images/continuous_table.png 'Central Tendency Measures of Continuous Variables')
 
 This table gives us important measures like minimum and maximum values for our numerical data (this will be important for the generation of graphics as we move on).
 
@@ -42,7 +42,7 @@ Means and medians will not be important because they will not reflect the our da
 
 This composed image shows us how I managed to show those variables:
 
-![Continuous Variables Graphics]('Images/continuous.png' Composed images of 4 continuous variables)
+![Continuous Variables Graphics](Images/continuous.png 'Composed images of 4 continuous variables')
 
 ### Relative to this graphic we have:
 For age: There are no young person in this data, everyone is at least 29 years old (looking at the table generated previously)
@@ -63,7 +63,7 @@ The variable 'oldpeak' is not included here because I could not find a minimum o
  
 ### This next composed graphic is relative to our categorical variables:
 
-![Categorical Variables Graphics]('Images/categorical.png' Composed images of categorical variables)
+![Categorical Variables Graphics](Images/categorical.png 'Composed images of categorical variables')
 
 Looking individually at the univariate analysis of the categorical variables we have:
  - This data is composed of roughly 2/3 males
@@ -78,7 +78,7 @@ Looking individually at the univariate analysis of the categorical variables we 
 ## Bivariate
 To represent our bivariate analysis, I chose to use only the Correlation Matrix with outside information from the CDC and websites of clinics around the world that can give some explanation about the interaction of those paremeters. Here is the full correlation matrix:
 
-![Correlation Matrix]('Images/corr_matrix.png' Correlation Matrix of all the variables)
+![Correlation Matrix](Images/corr_matrix.png 'Correlation Matrix of all the variables')
 
 For this correlation matrix:
  - The correlation coeficient have high numbers, even though the maximun is showed as 0.58.
